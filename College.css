@@ -1,0 +1,34 @@
+﻿body {
+    background-color:darkgray;
+
+}
+h1{
+    color:crimson;
+}
+
+ul{
+    border-block:solid 5px;
+    border-color:crimson;
+    width:50%;
+}
+
+.Box1{
+   float:left;
+   width:50%;
+   height:250px;
+   background-color:mintcream;
+}
+.Box2{
+    background-color:mintcream;
+    width:50%;
+    height:250px;
+    float:right;
+    margin: 200px 0px 50px 0px;
+}
+.Box3 {
+    background-color: mintcream;
+    width: 50%;
+    height: 250px;
+    float: left;
+    margin: 250px 0px 50px 0px;
+}
