@@ -4,14 +4,10 @@
 /*    body:hover {
         background-image: url("");
     }*/
-
-.Box{
-    width:50%;
-    height:500px;
-    background-color:red;
-}
 img{
-
+    width: 19%;
+    height: 19%;
+    padding:2.75% 0 0 37.5%;
 }
 h1 {
     padding: -2px;
