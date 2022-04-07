@@ -1,0 +1,63 @@
+﻿body {
+    background-image: url("Image/background2.webp");
+}
+/*    body:hover {
+        background-image: url("");
+    }*/
+img{
+    width: 19%;
+    height: 19%;
+    padding:2.75% 0 0 37.5%;
+}
+h1 {
+    padding: -2px;
+    margin:-3px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 435%;
+    background-color: dimgrey;
+    box-shadow: black -17px 17px;
+}
+h1:hover{
+    zoom:2;
+}
+
+.Me{
+    text-align:center;
+    font-size:165%;
+}
+.MeBox{
+    margin:25px 0 0 0;
+    border:solid 15px;
+    border-color:cornflowerblue;
+
+}
+
+li a {
+    text-align: left;
+    text-decoration: none;
+    color:darkolivegreen;
+}
+
+li {
+    font-size: 175%;
+    list-style-type: none;
+}
+
+.LeftSide {
+    position:absolute;
+    bottom:50%;
+    left:5%;
+}
+
+.RightSide {
+
+    position:absolute;
+    left:75%;
+    bottom:50%;
+}
+
+p{
+    color:dimgray;
+}
+
